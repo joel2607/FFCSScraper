@@ -1,0 +1,42 @@
+{
+    "type": "DC",
+    "details": [
+        {
+            "code": "BEEE205L",
+            "name": "Electronic Devices and Circuits",
+            "credits": "2",
+            "slots": [
+                {
+                    "id": "Electronic Devices and Circuits0",
+                    "theoryslot": "D1",
+                    "venue": "TT413",
+                    "faculty": "VENKATARAMAN M.N"
+                },
+                {
+                    "id": "Electronic Devices and Circuits1",
+                    "theoryslot": "D2",
+                    "venue": "TT413",
+                    "faculty": "VENKATARAMAN M.N"
+                },
+                {
+                    "id": "Electronic Devices and Circuits2",
+                    "theoryslot": "D1",
+                    "venue": "TT204",
+                    "faculty": "UMA SATHYAKAM P"
+                },
+                {
+                    "id": "Electronic Devices and Circuits3",
+                    "theoryslot": "D1",
+                    "venue": "TT201",
+                    "faculty": "GNANAVIGNESH R"
+                },
+                {
+                    "id": "Electronic Devices and Circuits4",
+                    "theoryslot": "D2",
+                    "venue": "TT204",
+                    "faculty": "UMA SATHYAKAM P"
+                }
+            ]
+        }
+    ]
+}
