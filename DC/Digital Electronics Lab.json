@@ -1,0 +1,72 @@
+{
+    "type": "DC",
+    "details": [
+        {
+            "code": "BEEE206P",
+            "name": "Digital Electronics Lab",
+            "credits": "1",
+            "slots": [
+                {
+                    "id": "Digital Electronics Lab0",
+                    "theoryslot": "L7+L8",
+                    "venue": "TT128",
+                    "faculty": "RASHMI RANJAN DAS"
+                },
+                {
+                    "id": "Digital Electronics Lab1",
+                    "theoryslot": "L23+L24",
+                    "venue": "TT128",
+                    "faculty": "RASHMI RANJAN DAS"
+                },
+                {
+                    "id": "Digital Electronics Lab2",
+                    "theoryslot": "L43+L44",
+                    "venue": "TT128",
+                    "faculty": "RASHMI RANJAN DAS"
+                },
+                {
+                    "id": "Digital Electronics Lab3",
+                    "theoryslot": "L39+L40",
+                    "venue": "TT128",
+                    "faculty": "VIJAYAKUMAR D"
+                },
+                {
+                    "id": "Digital Electronics Lab4",
+                    "theoryslot": "L57+L58",
+                    "venue": "TT128",
+                    "faculty": "VIJAYAKUMAR D"
+                },
+                {
+                    "id": "Digital Electronics Lab5",
+                    "theoryslot": "L49+L50",
+                    "venue": "TT128",
+                    "faculty": "BALAJI S"
+                },
+                {
+                    "id": "Digital Electronics Lab6",
+                    "theoryslot": "L13+L14",
+                    "venue": "TT128",
+                    "faculty": "BALAMURUGAN S"
+                },
+                {
+                    "id": "Digital Electronics Lab7",
+                    "theoryslot": "L5+L6",
+                    "venue": "TT128",
+                    "faculty": "BALAMURUGAN S"
+                },
+                {
+                    "id": "Digital Electronics Lab8",
+                    "theoryslot": "L31+L32",
+                    "venue": "TT128",
+                    "faculty": "BALAJI S"
+                },
+                {
+                    "id": "Digital Electronics Lab9",
+                    "theoryslot": "L51+L52",
+                    "venue": "TT128",
+                    "faculty": "RASHMI RANJAN DAS"
+                }
+            ]
+        }
+    ]
+}

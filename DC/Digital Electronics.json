@@ -1,0 +1,42 @@
+{
+    "type": "DC",
+    "details": [
+        {
+            "code": "BEEE206L",
+            "name": "Digital Electronics",
+            "credits": "3",
+            "slots": [
+                {
+                    "id": "Digital Electronics0",
+                    "theoryslot": "F1+TF1",
+                    "venue": "TT204",
+                    "faculty": "BALAJI S"
+                },
+                {
+                    "id": "Digital Electronics1",
+                    "theoryslot": "F2+TF2",
+                    "venue": "TT204",
+                    "faculty": "RASHMI RANJAN DAS"
+                },
+                {
+                    "id": "Digital Electronics2",
+                    "theoryslot": "F1+TF1",
+                    "venue": "TT201",
+                    "faculty": "RASHMI RANJAN DAS"
+                },
+                {
+                    "id": "Digital Electronics3",
+                    "theoryslot": "F2+TF2",
+                    "venue": "TT413",
+                    "faculty": "BALAMURUGAN S"
+                },
+                {
+                    "id": "Digital Electronics4",
+                    "theoryslot": "F1+TF1",
+                    "venue": "TT413",
+                    "faculty": "VIJAYAKUMAR D"
+                }
+            ]
+        }
+    ]
+}

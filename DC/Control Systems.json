@@ -1,0 +1,42 @@
+{
+    "type": "DC",
+    "details": [
+        {
+            "code": "BEEE303L",
+            "name": "Control Systems",
+            "credits": "3",
+            "slots": [
+                {
+                    "id": "Control Systems0",
+                    "theoryslot": "G1+TG1",
+                    "venue": "TT404",
+                    "faculty": "GAYATHRI V"
+                },
+                {
+                    "id": "Control Systems1",
+                    "theoryslot": "G2+TG2",
+                    "venue": "TT413",
+                    "faculty": "BAGYAVEERESWARAN V"
+                },
+                {
+                    "id": "Control Systems2",
+                    "theoryslot": "G1+TG1",
+                    "venue": "TT423",
+                    "faculty": "DHANAMJAYULU C"
+                },
+                {
+                    "id": "Control Systems3",
+                    "theoryslot": "G1+TG1",
+                    "venue": "TT413",
+                    "faculty": "BAGYAVEERESWARAN V"
+                },
+                {
+                    "id": "Control Systems4",
+                    "theoryslot": "G2+TG2",
+                    "venue": "TT204",
+                    "faculty": "VINODH KUMAR E"
+                }
+            ]
+        }
+    ]
+}

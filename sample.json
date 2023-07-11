@@ -1,9 +1,9 @@
 {
-  "type": "OE",
+  "type": "DC",
   "details": [
     {
-      "code": "BEEE206L",
-      "name": "International Economics",
+      "code": "BEEE303L",
+      "name": "Control Systems",
       "credits": "3",
       "slots": []
     }
