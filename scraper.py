@@ -5,19 +5,10 @@ with open("input.html") as f:
     htmlContent = f.read()
     data = pd.read_html(htmlContent)[0]
 
-# Fill in course details here and run
-# FC, DLES, DC, DE, PI, OE, BC 
-output = {
-  "type": "FC",
-  "details": [
-    {
-      "code": "BARB101L",
-      "name": "Arabic",
-      "credits": "3",
-      "slots": []
-    }
-  ]
-}
+
+
+with open("sample.json") as f:
+    output = json.load(f)
 
 for i in range(len(data)):
     slot = {

@@ -1,0 +1,444 @@
+{
+    "type": "FC",
+    "details": [
+        {
+            "code": "BMAT201L",
+            "name": "Complex Variables and Linear ",
+            "credits": "4",
+            "slots": [
+                {
+                    "id": "Complex Variables and Linear 0",
+                    "theoryslot": "A1+TA1+TAA1",
+                    "venue": "MB106",
+                    "faculty": "THILAGAVATHI K"
+                },
+                {
+                    "id": "Complex Variables and Linear 1",
+                    "theoryslot": "D2+TD2+TDD2",
+                    "venue": "MB211",
+                    "faculty": "NEELABJA CHATTERJEE"
+                },
+                {
+                    "id": "Complex Variables and Linear 2",
+                    "theoryslot": "A1+TA1+TAA1",
+                    "venue": "TT301",
+                    "faculty": "UDHAYAKUMAR R"
+                },
+                {
+                    "id": "Complex Variables and Linear 3",
+                    "theoryslot": "A1+TA1+TAA1",
+                    "venue": "TT523",
+                    "faculty": "ARUN CHOUDHARY"
+                },
+                {
+                    "id": "Complex Variables and Linear 4",
+                    "theoryslot": "A1+TA1+TAA1",
+                    "venue": "TT504",
+                    "faculty": "REENU RANI"
+                },
+                {
+                    "id": "Complex Variables and Linear 5",
+                    "theoryslot": "A1+TA1+TAA1",
+                    "venue": "MB107",
+                    "faculty": "ABHISHEK DAS"
+                },
+                {
+                    "id": "Complex Variables and Linear 6",
+                    "theoryslot": "A1+TA1+TAA1",
+                    "venue": "MB211",
+                    "faculty": "RACHNA BHATIA"
+                },
+                {
+                    "id": "Complex Variables and Linear 7",
+                    "theoryslot": "A1+TA1+TAA1",
+                    "venue": "MB213",
+                    "faculty": "ARUN KUMAR BADAJENA"
+                },
+                {
+                    "id": "Complex Variables and Linear 8",
+                    "theoryslot": "D2+TD2+TDD2",
+                    "venue": "MB106",
+                    "faculty": "VALLAMPATI RAMACHANDRA PRASAD"
+                },
+                {
+                    "id": "Complex Variables and Linear 9",
+                    "theoryslot": "A1+TA1+TAA1",
+                    "venue": "MB212",
+                    "faculty": "RAMU GEDDAVALASA"
+                },
+                {
+                    "id": "Complex Variables and Linear 10",
+                    "theoryslot": "D2+TD2+TDD2",
+                    "venue": "MB107",
+                    "faculty": "SUMANT KUMAR"
+                },
+                {
+                    "id": "Complex Variables and Linear 11",
+                    "theoryslot": "A2+TA2+TAA2",
+                    "venue": "TT523",
+                    "faculty": "GOURANGA MALLIK"
+                },
+                {
+                    "id": "Complex Variables and Linear 12",
+                    "theoryslot": "A1+TA1+TAA1",
+                    "venue": "TT531A",
+                    "faculty": "LAKSHMI NARAYAN MISHRA"
+                },
+                {
+                    "id": "Complex Variables and Linear 13",
+                    "theoryslot": "D2+TD2+TDD2",
+                    "venue": "MB212",
+                    "faculty": "PADIGEPATI NAVEEN"
+                },
+                {
+                    "id": "Complex Variables and Linear 14",
+                    "theoryslot": "A2+TA2+TAA2",
+                    "venue": "TT504",
+                    "faculty": "PURUSOTHAM S"
+                },
+                {
+                    "id": "Complex Variables and Linear 15",
+                    "theoryslot": "A2+TA2+TAA2",
+                    "venue": "TT301",
+                    "faculty": "UDHAYAKUMAR R"
+                },
+                {
+                    "id": "Complex Variables and Linear 16",
+                    "theoryslot": "A2+TA2+TAA2",
+                    "venue": "TT531A",
+                    "faculty": "LAKSHMI NARAYAN MISHRA"
+                },
+                {
+                    "id": "Complex Variables and Linear 17",
+                    "theoryslot": "A2+TA2+TAA2",
+                    "venue": "TT524",
+                    "faculty": "ARUN CHOUDHARY"
+                },
+                {
+                    "id": "Complex Variables and Linear 18",
+                    "theoryslot": "C1+TC1+TCC1",
+                    "venue": "SJT403",
+                    "faculty": "ABHISHEK DAS"
+                },
+                {
+                    "id": "Complex Variables and Linear 19",
+                    "theoryslot": "C1+TC1+TCC1",
+                    "venue": "SJT423",
+                    "faculty": "VEERAMANI S"
+                },
+                {
+                    "id": "Complex Variables and Linear 20",
+                    "theoryslot": "A1+TA1+TAA1",
+                    "venue": "TT423",
+                    "faculty": "MELLACHERUVU NAGA SRINIVASU"
+                },
+                {
+                    "id": "Complex Variables and Linear 21",
+                    "theoryslot": "B2+TB2+TBB2",
+                    "venue": "TT423",
+                    "faculty": "KAVITHA A"
+                },
+                {
+                    "id": "Complex Variables and Linear 22",
+                    "theoryslot": "C1+TC1+TCC1",
+                    "venue": "SJT401",
+                    "faculty": "PRABHUJIT MOHAPATRA"
+                },
+                {
+                    "id": "Complex Variables and Linear 23",
+                    "theoryslot": "C1+TC1+TCC1",
+                    "venue": "SJT421",
+                    "faculty": "RACHNA BHATIA"
+                },
+                {
+                    "id": "Complex Variables and Linear 24",
+                    "theoryslot": "A1+TA1+TAA1",
+                    "venue": "TT424",
+                    "faculty": "HEMADRI REDDY REGANTI"
+                },
+                {
+                    "id": "Complex Variables and Linear 25",
+                    "theoryslot": "A1+TA1+TAA1",
+                    "venue": "TT434",
+                    "faculty": "KALAIVANI K"
+                },
+                {
+                    "id": "Complex Variables and Linear 26",
+                    "theoryslot": "A1+TA1+TAA1",
+                    "venue": "SMV109",
+                    "faculty": "ABDUL HAQ"
+                },
+                {
+                    "id": "Complex Variables and Linear 27",
+                    "theoryslot": "C1+TC1+TCC1",
+                    "venue": "SJT302",
+                    "faculty": "PADIGEPATI NAVEEN"
+                },
+                {
+                    "id": "Complex Variables and Linear 28",
+                    "theoryslot": "B2+TB2+TBB2",
+                    "venue": "TT434",
+                    "faculty": "RUSHI KUMAR B"
+                },
+                {
+                    "id": "Complex Variables and Linear 29",
+                    "theoryslot": "C1+TC1+TCC1",
+                    "venue": "SJT324",
+                    "faculty": "RADHIKA T"
+                },
+                {
+                    "id": "Complex Variables and Linear 30",
+                    "theoryslot": "C1+TC1+TCC1",
+                    "venue": "SJT415",
+                    "faculty": "PRAVEEN T"
+                },
+                {
+                    "id": "Complex Variables and Linear 31",
+                    "theoryslot": "B2+TB2+TBB2",
+                    "venue": "SMV109",
+                    "faculty": "VIJAYA KUMAR A.G"
+                },
+                {
+                    "id": "Complex Variables and Linear 32",
+                    "theoryslot": "A1+TA1+TAA1",
+                    "venue": "CDMM104",
+                    "faculty": "PARVEZ ALAM"
+                },
+                {
+                    "id": "Complex Variables and Linear 33",
+                    "theoryslot": "C1+TC1+TCC1",
+                    "venue": "SJT301",
+                    "faculty": "SHOBANA DEVI N"
+                },
+                {
+                    "id": "Complex Variables and Linear 34",
+                    "theoryslot": "C1+TC1+TCC1",
+                    "venue": "SJT305",
+                    "faculty": "NATARAJAN G"
+                },
+                {
+                    "id": "Complex Variables and Linear 35",
+                    "theoryslot": "B2+TB2+TBB2",
+                    "venue": "CDMM104",
+                    "faculty": "ABDUL HAQ"
+                },
+                {
+                    "id": "Complex Variables and Linear 36",
+                    "theoryslot": "C1+TC1+TCC1",
+                    "venue": "SJT409",
+                    "faculty": "MONICA C"
+                },
+                {
+                    "id": "Complex Variables and Linear 37",
+                    "theoryslot": "C1+TC1+TCC1",
+                    "venue": "SJT303",
+                    "faculty": "SANGHASRI MUKHOPADHYAY"
+                },
+                {
+                    "id": "Complex Variables and Linear 38",
+                    "theoryslot": "C1+TC1+TCC1",
+                    "venue": "SJT308",
+                    "faculty": "VIJAYA KUMAR A.G"
+                },
+                {
+                    "id": "Complex Variables and Linear 39",
+                    "theoryslot": "C1+TC1+TCC1",
+                    "venue": "SJT311",
+                    "faculty": "KAVITHA A"
+                },
+                {
+                    "id": "Complex Variables and Linear 40",
+                    "theoryslot": "C1+TC1+TCC1",
+                    "venue": "SJT323",
+                    "faculty": "RAMESH KUMAR D"
+                },
+                {
+                    "id": "Complex Variables and Linear 41",
+                    "theoryslot": "C1+TC1+TCC1",
+                    "venue": "SJT304",
+                    "faculty": "ARUN KUMAR BADAJENA"
+                },
+                {
+                    "id": "Complex Variables and Linear 42",
+                    "theoryslot": "C1+TC1+TCC1",
+                    "venue": "SJT315",
+                    "faculty": "JAGADEESHKUMAR K"
+                },
+                {
+                    "id": "Complex Variables and Linear 43",
+                    "theoryslot": "C1+TC1+TCC1",
+                    "venue": "SJT311A",
+                    "faculty": "RAJASEKARAN G"
+                },
+                {
+                    "id": "Complex Variables and Linear 44",
+                    "theoryslot": "C1+TC1+TCC1",
+                    "venue": "SJT402",
+                    "faculty": "VIJAYAKUMAR V"
+                },
+                {
+                    "id": "Complex Variables and Linear 45",
+                    "theoryslot": "C1+TC1+TCC1",
+                    "venue": "SJT404",
+                    "faculty": "NEELABJA CHATTERJEE"
+                },
+                {
+                    "id": "Complex Variables and Linear 46",
+                    "theoryslot": "C1+TC1+TCC1",
+                    "venue": "SJT424",
+                    "faculty": "SUBRAMANYAM REDDY"
+                },
+                {
+                    "id": "Complex Variables and Linear 47",
+                    "theoryslot": "C2+TC2+TCC2",
+                    "venue": "SJT301",
+                    "faculty": "MELLACHERUVU NAGA SRINIVASU"
+                },
+                {
+                    "id": "Complex Variables and Linear 48",
+                    "theoryslot": "C1+TC1+TCC1",
+                    "venue": "SJT422",
+                    "faculty": "NAGESHWAR RAO RAGI"
+                },
+                {
+                    "id": "Complex Variables and Linear 49",
+                    "theoryslot": "C2+TC2+TCC2",
+                    "venue": "SJT302",
+                    "faculty": "ABDUL HAQ"
+                },
+                {
+                    "id": "Complex Variables and Linear 50",
+                    "theoryslot": "C2+TC2+TCC2",
+                    "venue": "SJT303",
+                    "faculty": "REENU RANI"
+                },
+                {
+                    "id": "Complex Variables and Linear 51",
+                    "theoryslot": "C2+TC2+TCC2",
+                    "venue": "SJT305",
+                    "faculty": "LAKSHMINARAYANA P"
+                },
+                {
+                    "id": "Complex Variables and Linear 52",
+                    "theoryslot": "C2+TC2+TCC2",
+                    "venue": "SJT324",
+                    "faculty": "GORINTLA SUCHARITHA"
+                },
+                {
+                    "id": "Complex Variables and Linear 53",
+                    "theoryslot": "C2+TC2+TCC2",
+                    "venue": "SJT308",
+                    "faculty": "THILAGAVATHI K"
+                },
+                {
+                    "id": "Complex Variables and Linear 54",
+                    "theoryslot": "C2+TC2+TCC2",
+                    "venue": "SJT513",
+                    "faculty": "KALAIVANI K"
+                },
+                {
+                    "id": "Complex Variables and Linear 55",
+                    "theoryslot": "C2+TC2+TCC2",
+                    "venue": "SJT402",
+                    "faculty": "RADHIKA T"
+                },
+                {
+                    "id": "Complex Variables and Linear 56",
+                    "theoryslot": "C2+TC2+TCC2",
+                    "venue": "SJT403",
+                    "faculty": "PRABHUJIT MOHAPATRA"
+                },
+                {
+                    "id": "Complex Variables and Linear 57",
+                    "theoryslot": "C2+TC2+TCC2",
+                    "venue": "SJT404",
+                    "faculty": "VIJAYAKUMAR V"
+                },
+                {
+                    "id": "Complex Variables and Linear 58",
+                    "theoryslot": "C2+TC2+TCC2",
+                    "venue": "SJT405",
+                    "faculty": "MONICA C"
+                },
+                {
+                    "id": "Complex Variables and Linear 59",
+                    "theoryslot": "C2+TC2+TCC2",
+                    "venue": "SJT424",
+                    "faculty": "PRAVEEN T"
+                },
+                {
+                    "id": "Complex Variables and Linear 60",
+                    "theoryslot": "C2+TC2+TCC2",
+                    "venue": "SJT415",
+                    "faculty": "RAMU GEDDAVALASA"
+                },
+                {
+                    "id": "Complex Variables and Linear 61",
+                    "theoryslot": "C2+TC2+TCC2",
+                    "venue": "SJT421",
+                    "faculty": "VIJAYA K"
+                },
+                {
+                    "id": "Complex Variables and Linear 62",
+                    "theoryslot": "C2+TC2+TCC2",
+                    "venue": "SJT304",
+                    "faculty": "SHARIEF BASHA S"
+                },
+                {
+                    "id": "Complex Variables and Linear 63",
+                    "theoryslot": "C2+TC2+TCC2",
+                    "venue": "SJT311",
+                    "faculty": "SHOBANA DEVI N"
+                },
+                {
+                    "id": "Complex Variables and Linear 64",
+                    "theoryslot": "C2+TC2+TCC2",
+                    "venue": "SJT311A",
+                    "faculty": "RAJASEKARAN G"
+                },
+                {
+                    "id": "Complex Variables and Linear 65",
+                    "theoryslot": "C2+TC2+TCC2",
+                    "venue": "SJT401",
+                    "faculty": "RAMESH KUMAR D"
+                },
+                {
+                    "id": "Complex Variables and Linear 66",
+                    "theoryslot": "C2+TC2+TCC2",
+                    "venue": "SJT422",
+                    "faculty": "MURUGUSUNDARAMOORTHY G"
+                },
+                {
+                    "id": "Complex Variables and Linear 67",
+                    "theoryslot": "C2+TC2+TCC2",
+                    "venue": "SJT409",
+                    "faculty": "VEERAMANI S"
+                },
+                {
+                    "id": "Complex Variables and Linear 68",
+                    "theoryslot": "C2+TC2+TCC2",
+                    "venue": "SJT423",
+                    "faculty": "UMA K"
+                },
+                {
+                    "id": "Complex Variables and Linear 69",
+                    "theoryslot": "C2+TC2+TCC2",
+                    "venue": "SJT315",
+                    "faculty": "JAGADEESHKUMAR K"
+                },
+                {
+                    "id": "Complex Variables and Linear 70",
+                    "theoryslot": "A1+TA1+TAA1",
+                    "venue": "TT524",
+                    "faculty": "GOURANGA MALLIK"
+                },
+                {
+                    "id": "Complex Variables and Linear 71",
+                    "theoryslot": "C1+TC1+TCC1",
+                    "venue": "SJT405",
+                    "faculty": "TAMIZHARASI R"
+                }
+            ]
+        }
+    ]
+}
