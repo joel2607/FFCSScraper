@@ -1,0 +1,24 @@
+{
+    "type": "FC",
+    "details": [
+        {
+            "code": "BARB101L",
+            "name": "Arabic",
+            "credits": "3",
+            "slots": [
+                {
+                    "id": "Arabic0",
+                    "theoryslot": "G1",
+                    "venue": "SJT308",
+                    "faculty": "MOHD SAQIB"
+                },
+                {
+                    "id": "Arabic1",
+                    "theoryslot": "F1",
+                    "venue": "SJT308",
+                    "faculty": "MOHD SAQIB"
+                }
+            ]
+        }
+    ]
+}
