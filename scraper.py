@@ -6,7 +6,6 @@ with open("input.html") as f:
     data = pd.read_html(htmlContent)[0]
 
 
-
 with open("sample.json") as f:
     output = json.load(f)
 
@@ -20,6 +19,6 @@ for i in range(len(data)):
     output["details"][0]["slots"].append(slot)
 
 with open(f"{output['type']}/{output['details'][0]['name']}.json",'w') as f:
-    f.write(json.dumps(output, indent = 4));
+    f.write(json.dumps(output, indent = 4))
 
 

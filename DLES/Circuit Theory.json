@@ -1,0 +1,42 @@
+{
+    "type": "DLES",
+    "details": [
+        {
+            "code": "BEEE203L",
+            "name": "Circuit Theory",
+            "credits": "4",
+            "slots": [
+                {
+                    "id": "Circuit Theory0",
+                    "theoryslot": "C2+TC2+TCC2",
+                    "venue": "TT204",
+                    "faculty": "SARAVANAKUMAR R"
+                },
+                {
+                    "id": "Circuit Theory1",
+                    "theoryslot": "C2+TC2+TCC2",
+                    "venue": "TT413",
+                    "faculty": "VIJAYA PRIYA P"
+                },
+                {
+                    "id": "Circuit Theory2",
+                    "theoryslot": "C1+TC1+TCC1",
+                    "venue": "TT204",
+                    "faculty": "BELWIN EDWARD J"
+                },
+                {
+                    "id": "Circuit Theory3",
+                    "theoryslot": "C1+TC1+TCC1",
+                    "venue": "TT413",
+                    "faculty": "JACOB RAGLEND I"
+                },
+                {
+                    "id": "Circuit Theory4",
+                    "theoryslot": "C1+TC1+TCC1",
+                    "venue": "TT201",
+                    "faculty": "JANAKI M"
+                }
+            ]
+        }
+    ]
+}
