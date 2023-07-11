@@ -1,0 +1,36 @@
+{
+    "type": "DE",
+    "details": [
+        {
+            "code": "BECE209E",
+            "name": "Structured and Object Oriented Programming",
+            "credits": "3",
+            "slots": [
+                {
+                    "id": "Structured and Object Oriented Programming0",
+                    "theoryslot": "C1",
+                    "venue": "TT104",
+                    "faculty": "RENITA R"
+                },
+                {
+                    "id": "Structured and Object Oriented Programming1",
+                    "theoryslot": "L11+L12+L13+L14",
+                    "venue": "TT134",
+                    "faculty": "MEGALA G"
+                },
+                {
+                    "id": "Structured and Object Oriented Programming2",
+                    "theoryslot": "L31+L32+L59+L60",
+                    "venue": "TT134",
+                    "faculty": "RENITA R"
+                },
+                {
+                    "id": "Structured and Object Oriented Programming3",
+                    "theoryslot": "C2",
+                    "venue": "TT201",
+                    "faculty": "MEGALA G"
+                }
+            ]
+        }
+    ]
+}

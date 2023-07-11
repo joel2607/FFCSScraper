@@ -1,0 +1,156 @@
+{
+    "type": "DC",
+    "details": [
+        {
+            "code": "BECE102P",
+            "name": "Digital Systems Design Lab",
+            "credits": "1",
+            "slots": [
+                {
+                    "id": "Digital Systems Design Lab0",
+                    "theoryslot": "L7+L8",
+                    "venue": "SJT203",
+                    "faculty": "JAYAKRISHNAN P"
+                },
+                {
+                    "id": "Digital Systems Design Lab1",
+                    "theoryslot": "L51+L52",
+                    "venue": "SJT203",
+                    "faculty": "PADMINI T N"
+                },
+                {
+                    "id": "Digital Systems Design Lab2",
+                    "theoryslot": "L41+L42",
+                    "venue": "SJT203",
+                    "faculty": "PADMINI T N"
+                },
+                {
+                    "id": "Digital Systems Design Lab3",
+                    "theoryslot": "L25+L26",
+                    "venue": "TT422",
+                    "faculty": "SRI ADIBHATLA SRIDEVI"
+                },
+                {
+                    "id": "Digital Systems Design Lab4",
+                    "theoryslot": "L9+L10",
+                    "venue": "SJT203",
+                    "faculty": "PADMINI T N"
+                },
+                {
+                    "id": "Digital Systems Design Lab5",
+                    "theoryslot": "L21+L22",
+                    "venue": "SJT203",
+                    "faculty": "JAYAKRISHNAN P"
+                },
+                {
+                    "id": "Digital Systems Design Lab6",
+                    "theoryslot": "L55+L56",
+                    "venue": "SJT203",
+                    "faculty": "AARTHY M"
+                },
+                {
+                    "id": "Digital Systems Design Lab7",
+                    "theoryslot": "L23+L24",
+                    "venue": "SJT203",
+                    "faculty": "PADMINI T N"
+                },
+                {
+                    "id": "Digital Systems Design Lab8",
+                    "theoryslot": "L51+L52",
+                    "venue": "TT422",
+                    "faculty": "SRI ADIBHATLA SRIDEVI"
+                },
+                {
+                    "id": "Digital Systems Design Lab9",
+                    "theoryslot": "L49+L50",
+                    "venue": "SJT203",
+                    "faculty": "JAYAKRISHNAN P"
+                },
+                {
+                    "id": "Digital Systems Design Lab10",
+                    "theoryslot": "L11+L12",
+                    "venue": "SJT203",
+                    "faculty": "AARTHY M"
+                },
+                {
+                    "id": "Digital Systems Design Lab11",
+                    "theoryslot": "L39+L40",
+                    "venue": "SJT203",
+                    "faculty": "AARTHY M"
+                },
+                {
+                    "id": "Digital Systems Design Lab12",
+                    "theoryslot": "L37+L38",
+                    "venue": "SJT203",
+                    "faculty": "JAYAKRISHNAN P"
+                },
+                {
+                    "id": "Digital Systems Design Lab13",
+                    "theoryslot": "L5+L6",
+                    "venue": "TT422",
+                    "faculty": "SRI ADIBHATLA SRIDEVI"
+                },
+                {
+                    "id": "Digital Systems Design Lab14",
+                    "theoryslot": "L19+L20",
+                    "venue": "SJT203",
+                    "faculty": "AARTHY M"
+                },
+                {
+                    "id": "Digital Systems Design Lab15",
+                    "theoryslot": "L37+L38",
+                    "venue": "TT422",
+                    "faculty": "SRI ADIBHATLA SRIDEVI"
+                },
+                {
+                    "id": "Digital Systems Design Lab16",
+                    "theoryslot": "L49+L50",
+                    "venue": "TT422",
+                    "faculty": "PRAYLINE RAJABAI C"
+                },
+                {
+                    "id": "Digital Systems Design Lab17",
+                    "theoryslot": "L19+L20",
+                    "venue": "TT422",
+                    "faculty": "PRAYLINE RAJABAI C"
+                },
+                {
+                    "id": "Digital Systems Design Lab18",
+                    "theoryslot": "L9+L10",
+                    "venue": "TT422",
+                    "faculty": "PRAYLINE RAJABAI C"
+                },
+                {
+                    "id": "Digital Systems Design Lab19",
+                    "theoryslot": "L29+L30",
+                    "venue": "TT422",
+                    "faculty": "CHITTARANJAN NAYAK"
+                },
+                {
+                    "id": "Digital Systems Design Lab20",
+                    "theoryslot": "L41+L42",
+                    "venue": "TT422",
+                    "faculty": "PRAYLINE RAJABAI C"
+                },
+                {
+                    "id": "Digital Systems Design Lab21",
+                    "theoryslot": "L43+L44",
+                    "venue": "TT422",
+                    "faculty": "ANITHA R"
+                },
+                {
+                    "id": "Digital Systems Design Lab22",
+                    "theoryslot": "L33+L34",
+                    "venue": "TT422",
+                    "faculty": "ANITHA R"
+                },
+                {
+                    "id": "Digital Systems Design Lab23",
+                    "theoryslot": "L3+L4",
+                    "venue": "TT422",
+                    "faculty": "CHITTARANJAN NAYAK"
+                }
+            ]
+        }
+    ]
+}

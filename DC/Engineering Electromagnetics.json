@@ -1,0 +1,84 @@
+{
+    "type": "DC",
+    "details": [
+        {
+            "code": "BECE205L",
+            "name": "Engineering Electromagnetics",
+            "credits": "3",
+            "slots": [
+                {
+                    "id": "Engineering Electromagnetics0",
+                    "theoryslot": "D2+TD2",
+                    "venue": "TT301",
+                    "faculty": "SHAMBAVI K"
+                },
+                {
+                    "id": "Engineering Electromagnetics1",
+                    "theoryslot": "D1+TD1",
+                    "venue": "TT301",
+                    "faculty": "SHAMBAVI K"
+                },
+                {
+                    "id": "Engineering Electromagnetics2",
+                    "theoryslot": "D2+TD2",
+                    "venue": "TT304",
+                    "faculty": "REVATHI S"
+                },
+                {
+                    "id": "Engineering Electromagnetics3",
+                    "theoryslot": "D2+TD2",
+                    "venue": "TT523",
+                    "faculty": "CHRISTINA JOSEPHINE MALATHI A"
+                },
+                {
+                    "id": "Engineering Electromagnetics4",
+                    "theoryslot": "D1+TD1",
+                    "venue": "TT304",
+                    "faculty": "REVATHI S"
+                },
+                {
+                    "id": "Engineering Electromagnetics5",
+                    "theoryslot": "D1+TD1",
+                    "venue": "TT504",
+                    "faculty": "POONKUZHALI R"
+                },
+                {
+                    "id": "Engineering Electromagnetics6",
+                    "theoryslot": "D1+TD1",
+                    "venue": "TT524",
+                    "faculty": "CHRISTINA JOSEPHINE MALATHI A"
+                },
+                {
+                    "id": "Engineering Electromagnetics7",
+                    "theoryslot": "D2+TD2",
+                    "venue": "TT524",
+                    "faculty": "VIJAY KUMAR"
+                },
+                {
+                    "id": "Engineering Electromagnetics8",
+                    "theoryslot": "D2+TD2",
+                    "venue": "TT504",
+                    "faculty": "POONKUZHALI R"
+                },
+                {
+                    "id": "Engineering Electromagnetics9",
+                    "theoryslot": "D1+TD1",
+                    "venue": "TT523",
+                    "faculty": "KANNADASSAN D"
+                },
+                {
+                    "id": "Engineering Electromagnetics10",
+                    "theoryslot": "D2+TD2",
+                    "venue": "TT530",
+                    "faculty": "YOGESH KUMAR CHOUKIKER"
+                },
+                {
+                    "id": "Engineering Electromagnetics11",
+                    "theoryslot": "D1+TD1",
+                    "venue": "TT530",
+                    "faculty": "VIJAY KUMAR"
+                }
+            ]
+        }
+    ]
+}

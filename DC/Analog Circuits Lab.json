@@ -1,0 +1,156 @@
+{
+    "type": "DC",
+    "details": [
+        {
+            "code": "BECE206P",
+            "name": "Analog Circuits Lab",
+            "credits": "1",
+            "slots": [
+                {
+                    "id": "Analog Circuits Lab0",
+                    "theoryslot": "L15+L16",
+                    "venue": "SJT207",
+                    "faculty": "SATHYA P"
+                },
+                {
+                    "id": "Analog Circuits Lab1",
+                    "theoryslot": "L25+L26",
+                    "venue": "SJT207",
+                    "faculty": "SATHYA P"
+                },
+                {
+                    "id": "Analog Circuits Lab2",
+                    "theoryslot": "L37+L38",
+                    "venue": "TT246",
+                    "faculty": "JASMIN PEMEENA PRIYADARISINI M"
+                },
+                {
+                    "id": "Analog Circuits Lab3",
+                    "theoryslot": "L49+L50",
+                    "venue": "TT246",
+                    "faculty": "JASMIN PEMEENA PRIYADARISINI M"
+                },
+                {
+                    "id": "Analog Circuits Lab4",
+                    "theoryslot": "L27+L28",
+                    "venue": "SJT207",
+                    "faculty": "AARTHI G"
+                },
+                {
+                    "id": "Analog Circuits Lab5",
+                    "theoryslot": "L43+L44",
+                    "venue": "SJT207",
+                    "faculty": "AARTHI G"
+                },
+                {
+                    "id": "Analog Circuits Lab6",
+                    "theoryslot": "L57+L58",
+                    "venue": "SJT207",
+                    "faculty": "AARTHI G"
+                },
+                {
+                    "id": "Analog Circuits Lab7",
+                    "theoryslot": "L13+L14",
+                    "venue": "SJT207",
+                    "faculty": "AARTHI G"
+                },
+                {
+                    "id": "Analog Circuits Lab8",
+                    "theoryslot": "L11+L12",
+                    "venue": "SJT207",
+                    "faculty": "BOOPALAN G"
+                },
+                {
+                    "id": "Analog Circuits Lab9",
+                    "theoryslot": "L59+L60",
+                    "venue": "SJT207",
+                    "faculty": "BOOPALAN G"
+                },
+                {
+                    "id": "Analog Circuits Lab10",
+                    "theoryslot": "L35+L36",
+                    "venue": "TT246",
+                    "faculty": "KAVITHA K.V.N."
+                },
+                {
+                    "id": "Analog Circuits Lab11",
+                    "theoryslot": "L57+L58",
+                    "venue": "TT246",
+                    "faculty": "KAVITHA K.V.N."
+                },
+                {
+                    "id": "Analog Circuits Lab12",
+                    "theoryslot": "L5+L6",
+                    "venue": "TT246",
+                    "faculty": "RAMAKRISHNAN V.N"
+                },
+                {
+                    "id": "Analog Circuits Lab13",
+                    "theoryslot": "L7+L8",
+                    "venue": "TT246",
+                    "faculty": "RAMAKRISHNAN V.N"
+                },
+                {
+                    "id": "Analog Circuits Lab14",
+                    "theoryslot": "L51+L52",
+                    "venue": "TT246",
+                    "faculty": "VEERAPU GOUTHAM"
+                },
+                {
+                    "id": "Analog Circuits Lab15",
+                    "theoryslot": "L23+L24",
+                    "venue": "TT246",
+                    "faculty": "NISHA J S"
+                },
+                {
+                    "id": "Analog Circuits Lab16",
+                    "theoryslot": "L29+L30",
+                    "venue": "SJT207",
+                    "faculty": "BOOPALAN G"
+                },
+                {
+                    "id": "Analog Circuits Lab17",
+                    "theoryslot": "L11+L12",
+                    "venue": "TT246",
+                    "faculty": "GAUTAM NARAYAN"
+                },
+                {
+                    "id": "Analog Circuits Lab18",
+                    "theoryslot": "L25+L26",
+                    "venue": "TT246",
+                    "faculty": "GAUTAM NARAYAN"
+                },
+                {
+                    "id": "Analog Circuits Lab19",
+                    "theoryslot": "L45+L46",
+                    "venue": "TT246",
+                    "faculty": "GAUTAM NARAYAN"
+                },
+                {
+                    "id": "Analog Circuits Lab20",
+                    "theoryslot": "L53+L54",
+                    "venue": "TT246",
+                    "faculty": "GAUTAM NARAYAN"
+                },
+                {
+                    "id": "Analog Circuits Lab21",
+                    "theoryslot": "L9+L10",
+                    "venue": "TT246",
+                    "faculty": "NISHA J S"
+                },
+                {
+                    "id": "Analog Circuits Lab22",
+                    "theoryslot": "L45+L46",
+                    "venue": "SJT207",
+                    "faculty": "BOOPALAN G"
+                },
+                {
+                    "id": "Analog Circuits Lab23",
+                    "theoryslot": "L41+L42",
+                    "venue": "TT246",
+                    "faculty": "VEERAPU GOUTHAM"
+                }
+            ]
+        }
+    ]
+}

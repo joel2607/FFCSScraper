@@ -1,0 +1,102 @@
+{
+    "type": "DE",
+    "details": [
+        {
+            "code": "BECE409E",
+            "name": "Sensors Technology",
+            "credits": "3",
+            "slots": [
+                {
+                    "id": "Sensors Technology0",
+                    "theoryslot": "C1",
+                    "venue": "TT301",
+                    "faculty": "MUTHU RAJA S"
+                },
+                {
+                    "id": "Sensors Technology1",
+                    "theoryslot": "C1",
+                    "venue": "TT504",
+                    "faculty": "DEBASHIS MAJI"
+                },
+                {
+                    "id": "Sensors Technology2",
+                    "theoryslot": "C2",
+                    "venue": "TT301",
+                    "faculty": "SATHYANARAYANAN P"
+                },
+                {
+                    "id": "Sensors Technology3",
+                    "theoryslot": "C1",
+                    "venue": "TT304",
+                    "faculty": "SATHYANARAYANAN P"
+                },
+                {
+                    "id": "Sensors Technology4",
+                    "theoryslot": "C2",
+                    "venue": "TT304",
+                    "faculty": "DEBASHIS MAJI"
+                },
+                {
+                    "id": "Sensors Technology5",
+                    "theoryslot": "L37+L38",
+                    "venue": "TT503",
+                    "faculty": "MUTHU RAJA S"
+                },
+                {
+                    "id": "Sensors Technology6",
+                    "theoryslot": "L3+L4",
+                    "venue": "TT503",
+                    "faculty": "SATHYANARAYANAN P"
+                },
+                {
+                    "id": "Sensors Technology7",
+                    "theoryslot": "L21+L22",
+                    "venue": "TT503",
+                    "faculty": "SATHYANARAYANAN P"
+                },
+                {
+                    "id": "Sensors Technology8",
+                    "theoryslot": "L39+L40",
+                    "venue": "TT503",
+                    "faculty": "SATHYANARAYANAN P"
+                },
+                {
+                    "id": "Sensors Technology9",
+                    "theoryslot": "L33+L34",
+                    "venue": "TT503",
+                    "faculty": "MUTHU RAJA S"
+                },
+                {
+                    "id": "Sensors Technology10",
+                    "theoryslot": "L5+L6",
+                    "venue": "TT503",
+                    "faculty": "DEBASHIS MAJI"
+                },
+                {
+                    "id": "Sensors Technology11",
+                    "theoryslot": "L9+L10",
+                    "venue": "TT503",
+                    "faculty": "DEBASHIS MAJI"
+                },
+                {
+                    "id": "Sensors Technology12",
+                    "theoryslot": "L53+L54",
+                    "venue": "TT503",
+                    "faculty": "SATHYANARAYANAN P"
+                },
+                {
+                    "id": "Sensors Technology13",
+                    "theoryslot": "L35+L36",
+                    "venue": "TT503",
+                    "faculty": "DEBASHIS MAJI"
+                },
+                {
+                    "id": "Sensors Technology14",
+                    "theoryslot": "L49+L50",
+                    "venue": "TT503",
+                    "faculty": "DEBASHIS MAJI"
+                }
+            ]
+        }
+    ]
+}

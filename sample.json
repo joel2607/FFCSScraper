@@ -1,9 +1,9 @@
 {
-  "type": "DC",
+  "type": "DE",
   "details": [
     {
-      "code": "BEEE303L",
-      "name": "Control Systems",
+      "code": "BECE409E",
+      "name": "Sensors Technology",
       "credits": "3",
       "slots": []
     }

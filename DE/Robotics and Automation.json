@@ -1,0 +1,42 @@
+{
+    "type": "DE",
+    "details": [
+        {
+            "code": "BECE312L",
+            "name": "Robotics and Automation",
+            "credits": "3",
+            "slots": [
+                {
+                    "id": "Robotics and Automation0",
+                    "theoryslot": "C1+TC1",
+                    "venue": "TT523",
+                    "faculty": "BUDHADITYA BHATTACHARYYA"
+                },
+                {
+                    "id": "Robotics and Automation1",
+                    "theoryslot": "C2+TC2",
+                    "venue": "TT504",
+                    "faculty": "TANMAYA KUMAR DAS"
+                },
+                {
+                    "id": "Robotics and Automation2",
+                    "theoryslot": "C2+TC2",
+                    "venue": "TT524",
+                    "faculty": "MOHIUL ISLAM"
+                },
+                {
+                    "id": "Robotics and Automation3",
+                    "theoryslot": "C1+TC1",
+                    "venue": "TT524",
+                    "faculty": "KATHIRVELAN J"
+                },
+                {
+                    "id": "Robotics and Automation4",
+                    "theoryslot": "C2+TC2",
+                    "venue": "TT523",
+                    "faculty": "ABRAHAM SAMPSON S"
+                }
+            ]
+        }
+    ]
+}
