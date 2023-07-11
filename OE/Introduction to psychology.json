@@ -1,0 +1,30 @@
+{
+    "type": "OE",
+    "details": [
+        {
+            "code": "BHUM203L",
+            "name": "Introduction to psychology",
+            "credits": "3",
+            "slots": [
+                {
+                    "id": "Introduction to psychology0",
+                    "theoryslot": "B2+TB2",
+                    "venue": "TT620",
+                    "faculty": "MOHD OWAIS KHAN"
+                },
+                {
+                    "id": "Introduction to psychology1",
+                    "theoryslot": "G1+TG1",
+                    "venue": "GDN120",
+                    "faculty": "MOHD OWAIS KHAN"
+                },
+                {
+                    "id": "Introduction to psychology2",
+                    "theoryslot": "D2+TD2",
+                    "venue": "SJT712",
+                    "faculty": "TANU KUKREJA"
+                }
+            ]
+        }
+    ]
+}

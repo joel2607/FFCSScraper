@@ -1,0 +1,24 @@
+{
+    "type": "OE",
+    "details": [
+        {
+            "code": "BHUM205L",
+            "name": "Developmental Economics",
+            "credits": "3",
+            "slots": [
+                {
+                    "id": "Developmental Economics0",
+                    "theoryslot": "G1+TG1",
+                    "venue": "GDN107",
+                    "faculty": "SUMEETHA M"
+                },
+                {
+                    "id": "Developmental Economics1",
+                    "theoryslot": "E2+TE2",
+                    "venue": "SJT324",
+                    "faculty": "SUMEETHA M"
+                }
+            ]
+        }
+    ]
+}

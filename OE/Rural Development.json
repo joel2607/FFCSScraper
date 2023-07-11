@@ -1,0 +1,30 @@
+{
+    "type": "OE",
+    "details": [
+        {
+            "code": "BHUM202L",
+            "name": "Rural Development",
+            "credits": "3",
+            "slots": [
+                {
+                    "id": "Rural Development0",
+                    "theoryslot": "C2+TC2",
+                    "venue": "SJT211A",
+                    "faculty": "PRITHIRAJ BORAH"
+                },
+                {
+                    "id": "Rural Development1",
+                    "theoryslot": "C1+TC1",
+                    "venue": "SMV309",
+                    "faculty": "PRITHIRAJ BORAH"
+                },
+                {
+                    "id": "Rural Development2",
+                    "theoryslot": "B2+TB2",
+                    "venue": "SJT424",
+                    "faculty": "SREYA SEN"
+                }
+            ]
+        }
+    ]
+}

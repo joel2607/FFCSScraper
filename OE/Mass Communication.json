@@ -1,0 +1,30 @@
+{
+    "type": "OE",
+    "details": [
+        {
+            "code": "BHUM201L",
+            "name": "Mass Communication",
+            "credits": "3",
+            "slots": [
+                {
+                    "id": "Mass Communication0",
+                    "theoryslot": "C2+TC2",
+                    "venue": "SJT211A",
+                    "faculty": "PRITHIRAJ BORAH"
+                },
+                {
+                    "id": "Mass Communication1",
+                    "theoryslot": "C1+TC1",
+                    "venue": "SMV309",
+                    "faculty": "PRITHIRAJ BORAH"
+                },
+                {
+                    "id": "Mass Communication2",
+                    "theoryslot": "B2+TB2",
+                    "venue": "SJT424",
+                    "faculty": "SREYA SEN"
+                }
+            ]
+        }
+    ]
+}

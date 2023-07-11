@@ -1,0 +1,72 @@
+{
+    "type": "OE",
+    "details": [
+        {
+            "code": "BEEE206L",
+            "name": "International Economics",
+            "credits": "3",
+            "slots": [
+                {
+                    "id": "International Economics0",
+                    "theoryslot": "L45+L46",
+                    "venue": "TT128",
+                    "faculty": "VENKATARAMAN M.N"
+                },
+                {
+                    "id": "International Economics1",
+                    "theoryslot": "L21+L22",
+                    "venue": "TT128",
+                    "faculty": "VENKATARAMAN M.N"
+                },
+                {
+                    "id": "International Economics2",
+                    "theoryslot": "L41+L42",
+                    "venue": "TT128",
+                    "faculty": "GNANAVIGNESH R"
+                },
+                {
+                    "id": "International Economics3",
+                    "theoryslot": "L27+L28",
+                    "venue": "TT128",
+                    "faculty": "UMA SATHYAKAM P"
+                },
+                {
+                    "id": "International Economics4",
+                    "theoryslot": "L33+L34",
+                    "venue": "TT128",
+                    "faculty": "GNANAVIGNESH R"
+                },
+                {
+                    "id": "International Economics5",
+                    "theoryslot": "L37+L38",
+                    "venue": "TT128",
+                    "faculty": "VENKATARAMAN M.N"
+                },
+                {
+                    "id": "International Economics6",
+                    "theoryslot": "L9+L10",
+                    "venue": "TT128",
+                    "faculty": "VENKATARAMAN M.N"
+                },
+                {
+                    "id": "International Economics7",
+                    "theoryslot": "L47+L48",
+                    "venue": "TT128",
+                    "faculty": "UMA SATHYAKAM P"
+                },
+                {
+                    "id": "International Economics8",
+                    "theoryslot": "L55+L56",
+                    "venue": "TT128",
+                    "faculty": "UMA SATHYAKAM P"
+                },
+                {
+                    "id": "International Economics9",
+                    "theoryslot": "L15+L16",
+                    "venue": "TT128",
+                    "faculty": "UMA SATHYAKAM P"
+                }
+            ]
+        }
+    ]
+}

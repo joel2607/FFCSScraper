@@ -1,0 +1,72 @@
+{
+    "type": "DC",
+    "details": [
+        {
+            "code": "BEEE205P",
+            "name": "Electronic Devices and Circuits Lab",
+            "credits": "1",
+            "slots": [
+                {
+                    "id": "Electronic Devices and Circuits Lab0",
+                    "theoryslot": "L45+L46",
+                    "venue": "TT128",
+                    "faculty": "VENKATARAMAN M.N"
+                },
+                {
+                    "id": "Electronic Devices and Circuits Lab1",
+                    "theoryslot": "L21+L22",
+                    "venue": "TT128",
+                    "faculty": "VENKATARAMAN M.N"
+                },
+                {
+                    "id": "Electronic Devices and Circuits Lab2",
+                    "theoryslot": "L41+L42",
+                    "venue": "TT128",
+                    "faculty": "GNANAVIGNESH R"
+                },
+                {
+                    "id": "Electronic Devices and Circuits Lab3",
+                    "theoryslot": "L27+L28",
+                    "venue": "TT128",
+                    "faculty": "UMA SATHYAKAM P"
+                },
+                {
+                    "id": "Electronic Devices and Circuits Lab4",
+                    "theoryslot": "L33+L34",
+                    "venue": "TT128",
+                    "faculty": "GNANAVIGNESH R"
+                },
+                {
+                    "id": "Electronic Devices and Circuits Lab5",
+                    "theoryslot": "L37+L38",
+                    "venue": "TT128",
+                    "faculty": "VENKATARAMAN M.N"
+                },
+                {
+                    "id": "Electronic Devices and Circuits Lab6",
+                    "theoryslot": "L9+L10",
+                    "venue": "TT128",
+                    "faculty": "VENKATARAMAN M.N"
+                },
+                {
+                    "id": "Electronic Devices and Circuits Lab7",
+                    "theoryslot": "L47+L48",
+                    "venue": "TT128",
+                    "faculty": "UMA SATHYAKAM P"
+                },
+                {
+                    "id": "Electronic Devices and Circuits Lab8",
+                    "theoryslot": "L55+L56",
+                    "venue": "TT128",
+                    "faculty": "UMA SATHYAKAM P"
+                },
+                {
+                    "id": "Electronic Devices and Circuits Lab9",
+                    "theoryslot": "L15+L16",
+                    "venue": "TT128",
+                    "faculty": "UMA SATHYAKAM P"
+                }
+            ]
+        }
+    ]
+}

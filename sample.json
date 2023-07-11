@@ -1,10 +1,10 @@
 {
-  "type": "DC",
+  "type": "OE",
   "details": [
     {
-      "code": "BEEE205L",
-      "name": "Electronic Devices and Circuits",
-      "credits": "2",
+      "code": "BEEE206L",
+      "name": "International Economics",
+      "credits": "3",
       "slots": []
     }
   ]
