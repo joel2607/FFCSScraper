@@ -1,0 +1,18 @@
+{
+    "type": "FC",
+    "details": [
+        {
+            "code": "BCHY101L",
+            "name": "Engineering Chemistry",
+            "credits": "3",
+            "slots": [
+                {
+                    "id": "Engineering Chemistry0",
+                    "theoryslot": "B2+TB2",
+                    "venue": "SJT211",
+                    "faculty": "RAJASEKAR P"
+                }
+            ]
+        }
+    ]
+}

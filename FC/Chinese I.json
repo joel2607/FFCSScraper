@@ -1,0 +1,36 @@
+{
+    "type": "FC",
+    "details": [
+        {
+            "code": "BCHI101L",
+            "name": "Chinese I",
+            "credits": "2",
+            "slots": [
+                {
+                    "id": "Chinese I0",
+                    "theoryslot": "G1",
+                    "venue": "SJT401",
+                    "faculty": "KHANA BAIDYA"
+                },
+                {
+                    "id": "Chinese I1",
+                    "theoryslot": "D1",
+                    "venue": "TT104",
+                    "faculty": "KHANA BAIDYA"
+                },
+                {
+                    "id": "Chinese I2",
+                    "theoryslot": "A2",
+                    "venue": "TT619",
+                    "faculty": "KHANA BAIDYA"
+                },
+                {
+                    "id": "Chinese I3",
+                    "theoryslot": "C2",
+                    "venue": "TT619",
+                    "faculty": "KHANA BAIDYA"
+                }
+            ]
+        }
+    ]
+}
