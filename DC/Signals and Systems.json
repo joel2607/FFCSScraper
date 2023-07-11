@@ -1,0 +1,42 @@
+{
+    "type": "DC",
+    "details": [
+        {
+            "code": "BEEE204L",
+            "name": "Signals and Systems",
+            "credits": "3",
+            "slots": [
+                {
+                    "id": "Signals and Systems0",
+                    "theoryslot": "B1+TB1",
+                    "venue": "TT413",
+                    "faculty": "AMUTHA PRABHA N"
+                },
+                {
+                    "id": "Signals and Systems1",
+                    "theoryslot": "B1+TB1",
+                    "venue": "TT204",
+                    "faculty": "JAGANATHA PANDIAN B"
+                },
+                {
+                    "id": "Signals and Systems2",
+                    "theoryslot": "B1+TB1",
+                    "venue": "TT201",
+                    "faculty": "MADDELA CHINNA OBAIAH"
+                },
+                {
+                    "id": "Signals and Systems3",
+                    "theoryslot": "B2+TB2",
+                    "venue": "TT413",
+                    "faculty": "YUVAPRIYA T"
+                },
+                {
+                    "id": "Signals and Systems4",
+                    "theoryslot": "B2+TB2",
+                    "venue": "TT204",
+                    "faculty": "MADDELA CHINNA OBAIAH"
+                }
+            ]
+        }
+    ]
+}

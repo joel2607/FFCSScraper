@@ -1,11 +1,11 @@
 {
-    "type": "FC",
-    "details": [
-      {
-        "code": "BCHE214L",
-        "name": "Global Warming",
-        "credits": "3",
-        "slots": []
-      }
-    ]
+  "type": "DC",
+  "details": [
+    {
+      "code": "BEEE204L",
+      "name": "Signals and Systems",
+      "credits": "3",
+      "slots": []
+    }
+  ]
 }
